@@ -1,5 +1,4 @@
 # ⚛️ Qiskit v2 Hands-On
-
 ![Quantum](https://img.shields.io/badge/Qiskit-v2-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
