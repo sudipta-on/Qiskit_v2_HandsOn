@@ -44,6 +44,10 @@ It is designed for **students beginning quantum computing**.
 ## 👨‍🔬 Author
 
 **Sudipta Majumder**  
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sudipta-on.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb)](https://www.researchgate.net/profile/Sudipta-Majumder-3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sudipta-majumder/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/sudipta-on)
 Physics | Quantum Computing | Quantum Machine Learning  
 
 ---
