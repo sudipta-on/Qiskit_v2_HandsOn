@@ -10,26 +10,12 @@ This repository contains **hands-on notebooks and examples** demonstrating key q
 
 ---
 
-## 🚀 What You Will Learn
-
-Through these notebooks you will explore:
-
-- Quantum circuits
-- Superposition and entanglement
-- Quantum parallelism
-- Quantum algorithms
-- Quantum cryptography (BB84)
-- Simulation using **AerSimulator**
-- Noise modeling in quantum circuits
-
----
-
 ## 📚 Contents
 
-| Notebook | Description |
-|--------|-------------|
-| **1. Introduction to Qiskit v2** | Basic circuit creation, gates, and simulation |
-| **2. VQE Tutorial** | Exploring Variational Quantum EigenSolver |
+| Notebook | Description | Google Colab Link |
+|--------|-------------|-------------|
+| **1. Introduction to Qiskit v2** | Basic circuit creation, gates, and simulation | https://colab.research.google.com/drive/1n2g788Ptw_F0cu5yRorMBrlmgq7HSGu_?usp=sharing | 
+| **2. VQE Tutorial** | Exploring Variational Quantum EigenSolver | https://colab.research.google.com/drive/1WfXFFNiqm4sw7rMbNoU_79UMypd8kXtU?usp=sharing | 
 
 ---
 
