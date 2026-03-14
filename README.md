@@ -12,10 +12,10 @@ This repository contains **hands-on notebooks and examples** demonstrating key q
 
 ## 📚 Contents
 
-| Notebook | Description | Google Colab Link |
+| Notebook | Description | Open in Colab |
 |--------|-------------|-------------|
-| **1. Introduction to Qiskit v2** | Basic circuit creation, gates, and simulation | [Click Here] (https://colab.research.google.com/drive/1n2g788Ptw_F0cu5yRorMBrlmgq7HSGu_?usp=sharing) | 
-| **2. VQE Tutorial** | Exploring Variational Quantum EigenSolver | [Click Here] (https://colab.research.google.com/drive/1WfXFFNiqm4sw7rMbNoU_79UMypd8kXtU?usp=sharing) | 
+| **1. Introduction to Qiskit v2** | Basic circuit creation, gates, and simulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n2g788Ptw_F0cu5yRorMBrlmgq7HSGu_?usp=sharing) |
+| **2. VQE Tutorial** | Exploring Variational Quantum Eigensolver | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WfXFFNiqm4sw7rMbNoU_79UMypd8kXtU?usp=sharing) |
 
 ---
 
@@ -24,10 +24,7 @@ This repository contains **hands-on notebooks and examples** demonstrating key q
 - **Qiskit SDK v2**
 - **Qiskit Aer Simulator**
 - **Python (NumPy, Matplotlib)**
-- Jupyter Notebook / Google Colab
-
----
-
+- **Jupyter Notebook / Google Colab**
 
 ---
 
@@ -47,9 +44,7 @@ It is designed for **students beginning quantum computing**.
 ## 👨‍🔬 Author
 
 **Sudipta Majumder**  
-Physics | Quantum Computing | Quantum Machine Learning
-
-
+Physics | Quantum Computing | Quantum Machine Learning  
 
 ---
 
