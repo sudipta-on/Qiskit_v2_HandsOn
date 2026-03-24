@@ -16,7 +16,8 @@ This repository contains **hands-on notebooks and examples** demonstrating key q
 | **1. Introduction to Qiskit v2** | Basic circuit creation, gates, and simulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBfkNBd9rs_CXTdqYJBGR6SiZNiyEWH9?usp=sharing) |
 | **2. Quantum Communication Protocols** | Superdense Coding & Quantum Teleportation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vDzHKZgveEMpdhXDOQSWSa_nZkIGN-ap?usp=sharing) |
 | **3. The Deutsch–Jozsa Algorithm** | Implementation of Deutsch-Jozsa Algorithm | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O6fHPmZ_vQ3USPcqtn00R_tOLNEzbrmx?usp=sharing) |
-| **2. VQE Tutorial** | Exploring Variational Quantum Eigensolver | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WfXFFNiqm4sw7rMbNoU_79UMypd8kXtU?usp=sharing) |
+| **4. VQE Tutorial I** | Exploring Variational Quantum Eigensolver | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WfXFFNiqm4sw7rMbNoU_79UMypd8kXtU?usp=sharing) |
+| **5. VQE Tutorial I** | Exploring Variational Quantum Eigensolver | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xfC6dk460H1DP6z69LjYkbHrGEZJU5E?usp=sharing) |
 
 ---
 
